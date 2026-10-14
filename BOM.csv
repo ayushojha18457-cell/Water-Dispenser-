@@ -1,0 +1,9 @@
+S.No.,Component Name,Quantity,Specification,Estimated Cost (INR),Purpose
+1,Mini DC Water Pump,1,Voltage compatible with battery,100,To pump water
+2,Lithium-ion Battery,1,Voltage compatible with pump,100,To supply electrical power
+3,ON/OFF Switch,1,Compatible with circuit,10,To control the pump
+4,Connecting Wires,1 set,Insulated wires,20,To connect components
+5,Plastic Water Tube,1,Compatible with pump outlet,20,To carry water
+6,Water Container,1,Plastic container,30,To hold water
+7,Insulation Material,1 set,Electrical insulation tape,20,To insulate connections
+,TOTAL,,,300,
