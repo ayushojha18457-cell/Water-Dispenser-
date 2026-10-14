@@ -37,6 +37,10 @@ When the switch is turned off, the pump stops.
 
 **Note:** Choose a battery and pump with compatible voltage ratings.
 The exact specifications depend on the components used.
+<img width="1280" height="720" alt="1000110463" src="https://github.com/user-attachments/assets/cf0bdab6-7fb0-4090-876c-c0b58ea04ee4" />
+<img width="1836" height="3264" alt="1000109713" src="https://github.com/user-attachments/assets/f80f97fc-5daa-42d6-bc1b-818fea9827fc" />
+<img width="720" height="1280" alt="1000109711" src="https://github.com/user-attachments/assets/b0e6a156-464b-4ff5-816e-d46e68d27b0a" />
+
 
 ## ⚙️ Working Principle
 
@@ -164,3 +168,6 @@ with better safety features and automatic controls.
 ---
 
 **Made with curiosity and creativity! 💧⚡**
+
+final view <img width="960" height="1280" alt="1000109710" src="https://github.com/user-attachments/assets/7422f51e-f089-4f3d-8ad8-0efcdb76b45f" />
+
